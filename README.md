@@ -1,10 +1,11 @@
 # Food Blog landing page.
 
-⭐ Used SASS & own styles.
-⭐ Implemented responsive template.
+
+<img width="80%" align="center" src="/Post.png" alt="LandingPage" /> <br/>
 
 
 
-![Demo iPad](./images/demo/ipad-demo.gif)
-![Demo iPhone](./images/demo/iphone-demo.gif)
- 
+<pre>
+⭐ Simple Landing Page using HTML and SASS & own styles. ⭐
+⭐ Implemented responsive template.⭐
+</pre>
